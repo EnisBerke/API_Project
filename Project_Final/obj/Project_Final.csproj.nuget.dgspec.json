@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API_Test\\Total-Recall\\Project_Final\\Project_Final\\Project_Final.csproj": {}
+    "D:\\API_Project\\API_Project\\Project_Final\\Project_Final.csproj": {}
   },
   "projects": {
-    "D:\\API_Test\\Total-Recall\\Project_Final\\Project_Final\\Project_Final.csproj": {
+    "D:\\API_Project\\API_Project\\Project_Final\\Project_Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API_Test\\Total-Recall\\Project_Final\\Project_Final\\Project_Final.csproj",
+        "projectUniqueName": "D:\\API_Project\\API_Project\\Project_Final\\Project_Final.csproj",
         "projectName": "Project_Final",
-        "projectPath": "D:\\API_Test\\Total-Recall\\Project_Final\\Project_Final\\Project_Final.csproj",
+        "projectPath": "D:\\API_Project\\API_Project\\Project_Final\\Project_Final.csproj",
         "packagesPath": "C:\\Users\\enisb\\.nuget\\packages\\",
-        "outputPath": "D:\\API_Test\\Total-Recall\\Project_Final\\Project_Final\\obj\\",
+        "outputPath": "D:\\API_Project\\API_Project\\Project_Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enisb\\AppData\\Roaming\\NuGet\\NuGet.Config",
